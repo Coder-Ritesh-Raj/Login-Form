@@ -19,6 +19,12 @@ body{
     background-size: 100% 100%;
 }
 
+body a{
+    padding: 10px;
+    color: black;
+    background-color: white;
+}
+
 .wrapper{
     width: 420px;
     /* background: rgb(98, 7, 7); */
